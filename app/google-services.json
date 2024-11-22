@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826433948391",
+    "project_id": "please-stand-by-7fd84",
+    "storage_bucket": "please-stand-by-7fd84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826433948391:android:a56dc32eae4315d2aaf042",
+        "android_client_info": {
+          "package_name": "com.example.ad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMAGDg9nF5Q_f6Dc6pX7XCoHGXUTbfjvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
